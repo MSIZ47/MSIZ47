@@ -1,9 +1,8 @@
 ### Hi there 👋, My name is Mahdi Safdarian
 #### I am Backend developer (Django)
-![I am Backend developer (Django)].
-A motivated and enthusiastic Computer Engineering student with strong skills Python and Django
+A motivated and enthusiastic Computer Engineering student with strong skills in Python and Django.
 
-Skills: Python / Django / MySQL / HTML / CSS / Git / Docker
+Skills: Python / Django / ORM / MySQK / Git / Docker / HTML / CSS
 
 - 🔭 I’m currently working on https://github.com/MSIZ47/Bookstore 
 - 🌱 I’m currently learning Design Patterns 
