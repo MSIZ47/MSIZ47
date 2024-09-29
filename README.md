@@ -1,9 +1,9 @@
 #### Hi there 👋, My name is Mahdi Safdarian
-### I am Backend developer (Django)
-A motivated and enthusiastic Computer Engineering student who wants to be a Remote Software Engineer.I really enjoy Python and Django,as well as Database management.I enjoy programming in general.
+### I am Pthon Backend developer (Django)
+A motivated and enthusiastic Computer Engineering student who wants to be a Remote Software Engineer.I really enjoy Python and Django,as well as APIs & Database management.I enjoy Programming in general.
 ## Skills and Experience
 * Python
-* Django
+* Django & DRF
 * ORM
 * MySQL
 * Git
@@ -11,7 +11,8 @@ A motivated and enthusiastic Computer Engineering student who wants to be a Remo
 * HTML / CSS
 
 - 🔭 I’m currently working on https://github.com/MSIZ47/Bookstore 
-- 🌱 I’m currently learning Design Patterns.
+- 🌱 I’m currently learning Python Data Structures & Algorithms.
+- 🔭 practicing Pytest....
 - 📫 How to reach me: mahdi.sfdn0@gmail.com 
 
 
